@@ -15,7 +15,3 @@ Untuk source-code buka foolder src, boleh digunakan oleh siapapun dan untuk apap
 ### 2. Vertical flip
 ### 3. Toggle switch on-off
 ### 4. Snapshot button
-
-
-Penulis:
-###  Izzat Alharis
