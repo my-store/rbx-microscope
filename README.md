@@ -1,5 +1,7 @@
 # RBX MICROSCOPE
 Version 1.0
+22 Jan 2024
+Pembuat: Izzat Alharis
 
 
 Aplikasi ini dibuat menggunakan bahasa pemrograman python, serta menggunakan library bawaan python untuk GUI nya yaitu tkinter.
