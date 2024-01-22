@@ -1,3 +1,8 @@
+# SOURCE CODE - MICROSCOPE TRIPLE CAMERA V1.0
+# Creator: Izzat Alharis | RBX FAMILY BREBES
+# Created at: Jan 09 2024
+
+
 from PIL import Image, ImageTk, ImageDraw, ImageFont
 from tkinter import Frame, Label, Button
 from time import strftime, sleep
