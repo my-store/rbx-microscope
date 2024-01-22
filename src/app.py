@@ -2,6 +2,7 @@
 # Creator: Izzat Alharis | RBX FAMILY BREBES
 # Created at: Jan 09 2024
 
+
 from tkinter import Tk, Frame
 from camera import RbxCamera
 import sys
