@@ -6,7 +6,7 @@ Aplikasi ini dibuat menggunakan bahasa pemrograman python, serta menggunakan lib
 
 Dapat digunakan untuk monitoring menggunakan tiga kamera sekaligus, saya menggunakannya untuk 1 microscope dan 2 kamera digital untuk keperluan recording, dalam versi lain saya juga membuat aplikasi serupa namun dengan jumlah kamera mencapai 16 kamera, saya menggunakannya untuk mengontrol kamera CCTV, mendukung kamera IP maupun kamera USB.
 
-Untuk aplikasi yang sudah jadi (executable), pilih rbx-microscope.exe, adapun untuk source-code nya buka foolder src, boleh digunakan oleh siapapun dan untuk apapun.
+Untuk aplikasi yang sudah jadi/ packed, unduh semua file didalam folder executable dan extract file "extract-me.zip", nanti akan ada file bernama "rbx-microscope.exe", adapun untuk source-code nya buka foolder src, jangan lupa install dulu seluruh library yang dibutuhkan pada file requirements.txt, boleh digunakan oleh siapapun dan untuk apapun.
 
 
 ## Available features:
