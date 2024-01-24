@@ -24,9 +24,16 @@ Target pengembangan selanjutnya aplikasi ini mendukung wired ataupun wireless IP
 2. Buka folder src
 3. Unduh seluruh file didalamnya
 4. Buat folder bernama "rbx-microscope" di komputer teman-teman dan masukkan seluruh hasil download kedalamnya
-5. Buat virtual environment didalam folder "rbx-microscope" (hubungi saya jika teman-teman belum bisa membuatnya)
-6. Install seluruh library didalam file "requirements.txt", dengan cara mengetik perintah di terminal:
+5. Buat virtual environment didalam folder "rbx-microscope"
+   * python -m venv virt
+6. Aktifkan virtual environment
+   * Windows: .\virt\Scripts\activate
+   * Linux: source ./virt/bin/activate
+8. Install seluruh library didalam file "requirements.txt"
    * pip install -r requirements.txt
+9. Jalankan file utama bernama "app.py"
+   * python app.py
+Silahkan lakukan perubahan pada file utama "app.py" ataupun file yang mengatur logika "camera.py" sesuai keinginan, jika teman-teman telah menguasai bahasa pemrograman Python tentunya proses modifikasi sangat menyenangkan bukan? :)
 
 
 ## AVAILABLE FEATURES
