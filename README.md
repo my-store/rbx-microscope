@@ -34,7 +34,7 @@ Target pengembangan selanjutnya aplikasi ini mendukung wired ataupun wireless IP
 9. Jalankan file utama bernama "app.py"
    * python app.py
 
-Silahkan lakukan perubahan pada file utama "app.py" ataupun file yang mengatur logika "camera.py" sesuai keinginan, jika teman-teman telah menguasai bahasa pemrograman Python tentunya proses modifikasi sangat menyenangkan bukan? :)
+Silahkan lakukan perubahan pada file utama "app.py" ataupun file yang mengatur logika "camera.py" sesuai keinginan, jika teman-teman telah menguasai bahasa pemrograman Python tentunya proses modifikasi sangat menyenangkan bukan? 🤣
 
 
 ## AVAILABLE FEATURES
