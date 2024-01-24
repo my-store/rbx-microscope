@@ -29,11 +29,11 @@ Target pengembangan selanjutnya aplikasi ini mendukung wired ataupun wireless IP
    $ pip install -r requirements.txt
 
 
-## Available features:
-### 1. Horizontal flip
-### 2. Vertical flip
-### 3. Toggle switch on-off
-### 4. Snapshot button
+## AVAILABLE FEATURES
+* Horizontal flip
+* Vertical flip
+* Toggle switch on-off
+* Snapshot button
 
 
 ## CATATAN PENULIS
