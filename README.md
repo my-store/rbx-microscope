@@ -50,7 +50,7 @@ Silahkan lakukan perubahan pada file utama "app.py" ataupun file yang mengatur l
 ## CATATAN PENULIS
 Saya membuat aplikasi ini untuk keperluan dokumentasi kegiatan di meja kerja, ini sangat berguna jika teman-teman adalah konten kreator seputar elektronik, saya tidak menjual aplikasi ini, silahkan dipakai jika teman-teman membutuhkannya, saya sangat senang jika teman-teman juga berminat mengembangkannya.
 
-Saya mohon maaf jika ada kesalahan dalam penulisan, atau panduan yang saya berikan tidak membantu, teman-teman bisa menghubungi saya melalui kontak dibawah.
+Mohon maaf jika ada kesalahan dalam penulisan, atau panduan yang saya berikan tidak membantu, teman-teman bisa menghubungi saya melalui kontak dibawah ini.
 
 
 ## KONTAK PENULIS
