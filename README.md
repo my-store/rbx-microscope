@@ -6,7 +6,9 @@ Bismillah,
 
 Aplikasi ini dibuat menggunakan bahasa pemrograman python, menggunakan library bawaan python untuk GUI nya yaitu tkinter, serta menggunakan library vision yang dikembangkan oleh perusahaan Intel yaitu OpenCV.
 
-Dapat digunakan untuk monitoring menggunakan tiga kamera sekaligus, saya menggunakannya untuk 1 microscope dan 2 kamera digital untuk keperluan recording, dalam versi lain saya juga membuat aplikasi serupa namun dengan jumlah kamera mencapai 16 kamera, saya menggunakannya untuk mengontrol kamera CCTV, mendukung kamera IP maupun kamera USB.
+Dapat digunakan untuk monitoring menggunakan tiga kamera sekaligus, dalam proses uji-coba saya menggunakan satu microscope dan dua kamera digital untuk keperluan recording, untuk saat ini baru mendukung kamera USB.
+
+Target pengembangan selanjutnya aplikasi ini mendukung wired ataupun wireless IP camera, dengan begitu aplikasi ini dapat juga digunakan untuk mengontrol CCTV.
 
 
 ## PANDUAN PENGGUNAAN
@@ -21,13 +23,10 @@ Dapat digunakan untuk monitoring menggunakan tiga kamera sekaligus, saya menggun
 1. Pastikan Python telah teristal di komputer teman-teman
 2. Buka folder src
 3. Unduh seluruh file didalamnya
-4. Buat folder bernama rbx-microscope di komputer teman-teman dan masukkan seluruh hasil download kedalamnya
-5. Buat virtual environment didalam folder rbx-microscope (hubungi saya jika teman-teman belum bisa membuatnya)
-6. Install seluruh library didalam file requirements.txt, dengan cara mengetik peritantah di terminal:
+4. Buat folder bernama "rbx-microscope" di komputer teman-teman dan masukkan seluruh hasil download kedalamnya
+5. Buat virtual environment didalam folder "rbx-microscope" (hubungi saya jika teman-teman belum bisa membuatnya)
+6. Install seluruh library didalam file "requirements.txt", dengan cara mengetik perintah di terminal:
    $ pip install -r requirements.txt
-
-
-Adapun jika teman-teman mau memodifikasi atau mengembangkan aplikasi ini, silahkan masuk ke folder src, jangan lupa install dulu seluruh library yang dibutuhkan pada file requirements.txt, boleh digunakan oleh siapapun dan untuk apapun.
 
 
 ## Available features:
@@ -44,6 +43,6 @@ Saya mohon maaf jika ada kesalahan dalam penulisan, atau panduan yang saya berik
 
 
 ## KONTAK PENULIS
-### Email: izzatalharist@gmail.com
-### TLP: 0877-6152-1222
-### Telegram: https://t.me/rbx_i7
+* Email: izzatalharist@gmail.com
+* TLP: 0877-6152-1222
+* Telegram: https://t.me/rbx_i7
