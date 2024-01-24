@@ -26,7 +26,7 @@ Target pengembangan selanjutnya aplikasi ini mendukung wired ataupun wireless IP
 4. Buat folder bernama "rbx-microscope" di komputer teman-teman dan masukkan seluruh hasil download kedalamnya
 5. Buat virtual environment didalam folder "rbx-microscope" (hubungi saya jika teman-teman belum bisa membuatnya)
 6. Install seluruh library didalam file "requirements.txt", dengan cara mengetik perintah di terminal:
-   $ pip install -r requirements.txt
+   * pip install -r requirements.txt
 
 
 ## AVAILABLE FEATURES
