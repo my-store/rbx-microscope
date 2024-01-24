@@ -2,6 +2,9 @@
 Versi 1.0 | diperbarui pada 22 Jan 2024 oleh Izzat Alharis
 
 
+![alt text] (https://github.com/my-store/rbx-microscope/blob/main/screenshot.jpg?raw=true)
+
+
 Bismillah,
 
 Aplikasi ini dibuat menggunakan bahasa pemrograman python, menggunakan library bawaan python untuk GUI nya yaitu tkinter, serta menggunakan library vision yang dikembangkan oleh perusahaan Intel yaitu OpenCV.
