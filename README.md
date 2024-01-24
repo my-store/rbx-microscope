@@ -44,6 +44,6 @@ Saya mohon maaf jika ada kesalahan dalam penulisan, atau panduan yang saya berik
 
 
 ## KONTAK PENULIS
-Email: izzatalharist@gmail.com
-TLP: 0877-6152-1222
-Telegram: https://t.me/rbx_i7
+### Email: izzatalharist@gmail.com
+### TLP: 0877-6152-1222
+### Telegram: https://t.me/rbx_i7
