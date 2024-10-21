@@ -55,5 +55,4 @@ Mohon maaf jika ada kesalahan dalam penulisan, atau panduan yang saya berikan ti
 
 ## KONTAK PENULIS
 * Email: izzatalharist@gmail.com
-* TLP: 0877-6152-1222
-* Telegram: https://t.me/rbx_i7
+* Telegram: https://t.me/pmtkom
